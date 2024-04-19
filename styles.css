@@ -1,0 +1,27 @@
+.flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .flex-row {
+    flex-direction: row;
+  }
+  
+  input {
+    margin: 5px;
+  }
+  
+  button {
+    margin: 10px;
+  }
